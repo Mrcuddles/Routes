@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MiT25: Hengelo Sauerland Alpin Hotel (afsluiting) - 306km</name>
+        <name>MiT25: Hengelo - Alpin Hotel (afsluiting) - 306km</name>
         <rtept lat="52.28314" lon="6.84237">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MiT25: Hengelo Sauerland Alpin Hotel (afsluiting) - 306km</name>
+        <name>MiT25: Hengelo - Alpin Hotel (afsluiting) - 306km</name>
         <trkseg>
             <trkpt lat="52.28314" lon="6.84237"/>
             <trkpt lat="52.28311" lon="6.84237"/>

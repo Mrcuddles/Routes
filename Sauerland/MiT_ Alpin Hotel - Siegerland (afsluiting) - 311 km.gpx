@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MiT: Aplin Hotel - Siegerland (afsluiting) - 311 km</name>
+        <name>MiT: Alpin Hotel - Siegerland (afsluiting) - 311 km</name>
         <rtept lat="51.14706" lon="8.33648">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MiT: Aplin Hotel - Siegerland (afsluiting) - 311 km</name>
+        <name>MiT: Alpin Hotel - Siegerland (afsluiting) - 311 km</name>
         <trkseg>
             <trkpt lat="51.14706" lon="8.33648"/>
             <trkpt lat="51.14699" lon="8.33633"/>

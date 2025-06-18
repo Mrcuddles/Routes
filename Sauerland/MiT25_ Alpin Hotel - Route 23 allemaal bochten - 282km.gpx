@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MiT25: Route 23 allemaal bochten - 282km</name>
+        <name>MiT25: Alpin Hotel - Route 23 allemaal bochten - 282km</name>
         <rtept lat="51.1468" lon="8.33579">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MiT25: Route 23 allemaal bochten - 282km</name>
+        <name>MiT25: Alpin Hotel - Route 23 allemaal bochten - 282km</name>
         <trkseg>
             <trkpt lat="51.1468" lon="8.33579"/>
             <trkpt lat="51.1467" lon="8.33542"/>

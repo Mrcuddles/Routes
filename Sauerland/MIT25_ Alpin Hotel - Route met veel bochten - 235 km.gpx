@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MIT25: Route met veel bochten - 235 km</name>
+        <name>MIT25: Alpin Hotel - Route met veel bochten - 235 km</name>
         <rtept lat="51.14632" lon="8.33279">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MIT25: Route met veel bochten - 235 km</name>
+        <name>MIT25: Alpin Hotel - Route met veel bochten - 235 km</name>
         <trkseg>
             <trkpt lat="51.14632" lon="8.33279"/>
             <trkpt lat="51.14641" lon="8.3321"/>

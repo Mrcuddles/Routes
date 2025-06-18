@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MiT25: Sauerland route west - 285km</name>
+        <name>MiT25: Alpin Hotel - Route west - 285km</name>
         <rtept lat="51.14705" lon="8.33645">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MiT25: Sauerland route west - 285km</name>
+        <name>MiT25: Alpin Hotel - Route west - 285km</name>
         <trkseg>
             <trkpt lat="51.14705" lon="8.33645"/>
             <trkpt lat="51.14699" lon="8.33633"/>

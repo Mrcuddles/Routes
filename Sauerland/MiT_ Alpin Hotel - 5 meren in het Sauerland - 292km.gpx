@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MiT: 5 meren in het Sauerland - 292km</name>
+        <name>MiT: Alpin Hotel - 5 meren in het Sauerland - 292km</name>
         <rtept lat="51.146382" lon="8.332205">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MiT: 5 meren in het Sauerland - 292km</name>
+        <name>MiT: Alpin Hotel - 5 meren in het Sauerland - 292km</name>
         <trkseg>
             <trkpt lat="51.146382" lon="8.332205"/>
             <trkpt lat="51.146399" lon="8.332026"/>
