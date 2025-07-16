@@ -7,7 +7,7 @@
         <type>TT_HARD</type>
     </wpt>
     <rte>
-        <name>MotoHengelo: 16-05-2025 2e Ride out - 94km</name>
+        <name>MotoHengelo: 16-05-2025 - 2e Ride out - 94km</name>
         <rtept lat="52.25674" lon="6.81065">
             <type>TT_HARD</type>
         </rtept>
@@ -16,7 +16,7 @@
         </rtept>
     </rte>
     <trk>
-        <name>MotoHengelo: 16-05-2025 2e Ride out - 94km</name>
+        <name>MotoHengelo: 16-05-2025 - 2e Ride out - 94km</name>
         <trkseg>
             <trkpt lat="52.25674" lon="6.81065"/>
             <trkpt lat="52.25663" lon="6.81049"/>
