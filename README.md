@@ -1,3 +1,9 @@
+
+| Route | Feedback |
+|---|---|
+| MotoHengelo_ 12-07-2025 - Tourrit 7 - 180km | *Veel dorpjes, maar een paar leuke stukjes* |
+
+
 # Sauerland
 Het Sauerland is een motorparadijs: glooiende heuvels, bosrijke routes en eindeloze bochten. Deze routes starten/eindigen bij het Alpin Hotel, waar comfort en gastvrijheid samengaan met de perfecte uitvalsbasis.
 
